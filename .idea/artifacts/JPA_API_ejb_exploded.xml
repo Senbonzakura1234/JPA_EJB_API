@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ejb" name="JPA_API:ejb exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/JPA_API_ejb_exploded</output-path>
+    <root id="root">
+      <element id="module-output" name="JPA_API" />
+      <element id="javaee-facet-resources" facet="JPA_API/web/Web" />
+      <element id="javaee-facet-resources" facet="JPA_API/ejb/EJB" />
+      <element id="artifact" artifact-name="JPA_API:war exploded" />
+    </root>
+  </artifact>
+</component>
